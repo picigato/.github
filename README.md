@@ -1,1 +1,2 @@
-# .github
+# picigato
+pici = small, gato = cat
